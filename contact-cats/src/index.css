@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --myproperty: repeat(2, minmax(500px, 20px));
+    --myproperty2: 5px 7px #ebeded;
+}
